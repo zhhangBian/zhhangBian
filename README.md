@@ -1,4 +1,4 @@
-pigKiller,a common student in BUAA CS
+pigKiller, a common student in BUAA CS
 
 <!---
 pigKillerMaster/pigKillerMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
